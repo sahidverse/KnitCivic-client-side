@@ -184,8 +184,6 @@ Building connections, encouraging participation, and creating meaningful communi
 
 ---
 
-
-
 <div align="center">
 
 ### ❤️ KnitCivic
