@@ -120,10 +120,10 @@ JWT_SECRET=your_jwt_secret
 
 Start the backend server:
 
+
 ```bash
 npm run dev
 ```
-
 
 Backend runs at: `http://localhost:5000` 
 
