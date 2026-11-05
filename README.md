@@ -124,7 +124,8 @@ Start the backend server:
 npm run dev
 ```
 
-Backend runs at: `http://localhost:5000`
+
+Backend runs at: `http://localhost:5000` 
 
 **Note:** Configure your Better Auth server URL, trusted origins, and JWT settings according to your actual authentication implementation. Never expose private secrets in frontend environment variables.
 
