@@ -156,6 +156,7 @@ KnitCivic uses Better Auth for authentication and JWT for secure communication b
 
 </div>
 
+
 ## 🗺️ Future Improvements
 
 - Real-time notifications for event updates.
