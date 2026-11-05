@@ -177,7 +177,6 @@ If you would like to contribute:
 5. Open a Pull Request.
 
 
-
 ## 👨‍💻 Developer
 
 **Developed with ❤️ by Shahid Ahmed**
