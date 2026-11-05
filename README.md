@@ -137,6 +137,7 @@ KnitCivic uses Better Auth for authentication and JWT for secure communication b
 - JWT-based API token verification.
 - Protected API endpoints.
 - Authenticated event management.
+   
 
 ## 📸 Screenshots
 
