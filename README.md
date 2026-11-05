@@ -190,7 +190,6 @@ Building connections, encouraging participation, and creating meaningful communi
 
 **Together, We Make Communities Stronger.**
 
-
 <sub>© 2026 KnitCivic. All Rights Reserved.</sub>
 
 </div>
