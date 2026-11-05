@@ -128,7 +128,7 @@ Backend runs at: `http://localhost:5000`
 
 **Note:** Configure your Better Auth server URL, trusted origins, and JWT settings according to your actual authentication implementation. Never expose private secrets in frontend environment variables.
 
-## 🔐 Authentication & Security
+## 🔐 Authentication & Security   
 
 KnitCivic uses Better Auth for authentication and JWT for secure communication between the frontend and backend.
 
@@ -138,7 +138,6 @@ KnitCivic uses Better Auth for authentication and JWT for secure communication b
 - Protected API endpoints.
 - Authenticated event management.
    
-
 ## 📸 Screenshots
 
 <div align="center">
